@@ -1,79 +1,74 @@
-### Hi there 👋
-
-I'm **Mohammad Taha**, a passionate **MERN Stack Developer** from **Pakistan** 🇵🇰
-
----
-
-🌐 **Frontend Wizardry**  
-I specialize in creating stunning, user-friendly web interfaces with **React.js**, **Next.js**, **Tailwind CSS**, and **Framer Motion**. I experiment with tools like **GSAP** and **Lenis** for smooth, dynamic animations and immersive user experiences.  
-
-🛠️ **Backend Expertise**  
-While my heart lies in the frontend, I’m also skilled in backend development using **Node.js**, **Express**, and **MongoDB**, implementing features like **authentication**, **CRUD operations**, and **API integrations** to deliver robust full-stack apps.
-
-🎨 **3D Web & Motion Design**  
-I explore web-based 3D experiences using **Three.js**, bringing digital creativity to life with real-time 3D modeling and infrastructure design.
-
-📦 **State Management & Performance**  
-I use **Redux Toolkit** and **Redis** to ensure blazing-fast, scalable, and maintainable frontend state management.
-
-🚀 **SEO & Optimization**  
-I optimize apps with proper **metadata**, **sitemap.xml**, and **robots.txt** for **best SEO practices**, ensuring lightning-fast loading and smooth performance on both desktop and mobile.
+<h1 align="center">Hi there 👋, I'm Mohammad Taha</h1>
+<h3 align="center">A Passionate MERN Stack Developer from Pakistan 🇵🇰</h3>
 
 ---
 
-## 📌 Key Responsibilities
+### 🌐 Frontend Wizardry
+I specialize in building stunning and performant web interfaces with:
+- ⚛️ **React.js**, **Next.js**, **Tailwind CSS**
+- 🎞️ Animation libraries like **Framer Motion**, **GSAP**, and **Lenis**
+- 🌍 SEO optimization with metadata, sitemap.xml, and robots.txt
 
-- 🚧 Building modern and responsive frontend architecture  
-- 🎯 Designing and integrating 3D components  
-- 🧠 Managing application state with Redux Toolkit  
-- 🔐 Implementing authentication and backend endpoints  
-- ⚙️ Integrating APIs from various sources quickly  
-- 🧩 Using Redis for caching and session management  
-- 📱 Delivering responsive, mobile-first UI using Tailwind & ShadCN UI  
-- ⚡ Setting up SEO essentials for optimal web performance
+### 🛠️ Backend Expertise
+- 🔐 **Authentication**, **CRUD APIs**, **MongoDB Atlas**, **Express.js**
+- ⚡ API integration & robust backend logic using **Node.js**
+- 📦 Caching & session management with **Redis**
 
----
-
-## 🛠️ Tech Stack & Tools
-
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-purple?style=for-the-badge&logo=redux)
-![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-black?style=for-the-badge&logo=framer)
-![GSAP](https://img.shields.io/badge/-GSAP-black?style=for-the-badge&logo=greensock)
-![Three.js](https://img.shields.io/badge/-Three.js-black?style=for-the-badge&logo=three.js)
-![Firebase](https://img.shields.io/badge/-Firebase-yellow?style=for-the-badge&logo=firebase)
-![Netlify](https://img.shields.io/badge/-Netlify-black?style=for-the-badge&logo=netlify)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
+### 🎨 3D Web & Motion Design
+- ✨ Interactive 3D experiences with **Three.js**
 
 ---
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/sahil-ali-a86423206/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+## 🚀 What I Do
+
+✅ Build **responsive frontend** using React + Tailwind  
+✅ Design **motion-rich UIs** with GSAP & Framer Motion  
+✅ Integrate **backend logic** with Node.js + Express  
+✅ Cache & scale using **Redis + MongoDB**  
+✅ Ensure SEO & web performance  
+
+---
+
+## 🧰 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Redux-purple?style=for-the-badge&logo=redux" />
+  <img src="https://img.shields.io/badge/-Three.js-black?style=for-the-badge&logo=three.js" />
+  <img src="https://img.shields.io/badge/-Firebase-yellow?style=for-the-badge&logo=firebase" />
+  <img src="https://img.shields.io/badge/-Framer%20Motion-black?style=for-the-badge&logo=framer" />
+  <img src="https://img.shields.io/badge/-GSAP-black?style=for-the-badge&logo=greensock" />
+</p>
+
+---
+
+## 🔗 Connect with Me
+
+<p align="center" id="badges">
+  <a href="https://www.linkedin.com/in/sahil-ali-a86423206/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://medium.com/@sahilali">
-    <img src="https://img.shields.io/badge/Medium-red?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  <a href="https://medium.com/@sahilali" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="https://twitter.com/SahilAl14403565">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://twitter.com/SahilAl14403565" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-</div>
-
-<br />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sahilali8808&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
+---
 
-## 🚀 Sample Projects
+## ✨ Sample Projects
 
-### 🎨 Animated Frontend Projects
-These projects demonstrate animations using **GSAP**, **Framer Motion**, and **Lenis**, along with creative UI/UX design:
+### 🎨 Animated Interfaces
 
 - 🖼️ [Decor Canvas Bloom](https://decor-canvas-bloom.vercel.app/)
 - 🛥️ [Scateboat Case](https://scateboat-case.vercel.app/)
@@ -82,12 +77,11 @@ These projects demonstrate animations using **GSAP**, **Framer Motion**, and **L
 - 🏫 [SAMS Odisha](https://sams-odisha.vercel.app/)
 - 📖 [Read for Speed](https://master--readforspeed.netlify.app/)
 - 🧘‍♂️ [Calm Brioche](https://calm-brioche-2cf932.netlify.app/)
-- 📝 [Queen Blog (Firebase Backend)](https://queen-blog.netlify.app/)
+- 📝 [Queen Blog](https://queen-blog.netlify.app/)
 
 ---
 
-### 🌐 Deployed Projects (with Google Search Console & Analytics)
-These are production-ready websites with **SEO optimization** and **analytics** configured:
+### 🌐 Deployed (SEO + Analytics)
 
 - 🔮 [Destiny Matrix Chart](https://www.destinymatrixchart.pro/)
 - 🍽️ [A&W Official Menu](https://www.aandwmenu.com/)
@@ -95,18 +89,21 @@ These are production-ready websites with **SEO optimization** and **analytics** 
 
 ---
 
-### 🛠️ Backend Projects in Node.js
+### 🔧 Backend Repositories
 
-These repositories showcase my backend expertise using **Node.js**, **Express**, **MongoDB**, and **TypeScript**:
-
-- 📚 [LMS System (TypeScript)](https://github.com/taha775/LMS-SYSTEM-TS)
-- 🌿 [AgroConnect Admin Panel](https://github.com/taha775/Agroconnect-Dashboard)
-- 🌾 [AgroConnect Backend](https://github.com/taha775/AgroConnectBackend)
+- 📚 [LMS System (TypeScript)](https://github.com/taha775/LMS-SYSTEM-TS)  
+- 🌾 [AgroConnect Backend](https://github.com/taha775/AgroConnectBackend)  
+- 🌿 [AgroConnect Dashboard](https://github.com/taha775/Agroconnect-Dashboard)  
 
 ---
 
-### 🖥️ Team Collaboration Projects
+### 🤝 Team Collaboration Projects
 
-- 🔧 [Slash Admin Panel](https://github.com/taha775/slash_admin)  
-  *(I contributed to the UI/UX design and frontend architecture)*
+- 🧩 [Slash Admin Panel](https://github.com/taha775/slash_admin)  
+  *Role: UI/UX design, frontend architecture*
 
+---
+
+If you'd like to truly have **hover effects or animation**, you'd need to **host a portfolio website** (which you already do, such as [A&W Menu](https://www.aandwmenu.com/)) where full CSS/JS is allowed.
+
+Would you like help building an interactive portfolio website with hover effects using Tailwind/Framer Motion instead?
