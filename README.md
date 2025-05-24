@@ -68,3 +68,45 @@ I optimize apps with proper **metadata**, **sitemap.xml**, and **robots.txt** fo
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sahilali8808&style=flat-square&color=blue" alt="Profile Views" />
 </p>
+
+
+## 🚀 Sample Projects
+
+### 🎨 Animated Frontend Projects
+These projects demonstrate animations using **GSAP**, **Framer Motion**, and **Lenis**, along with creative UI/UX design:
+
+- 🖼️ [Decor Canvas Bloom](https://decor-canvas-bloom.vercel.app/)
+- 🛥️ [Scateboat Case](https://scateboat-case.vercel.app/)
+- 🔮 [Destiny Matrix](https://destinymatrix-6evspxfc2-mohammad-tahas-projects-380390a5.vercel.app/)
+- 🍔 [A&W Menu Magic](https://a-and-w-menu-magic.vercel.app/)
+- 🏫 [SAMS Odisha](https://sams-odisha.vercel.app/)
+- 📖 [Read for Speed](https://master--readforspeed.netlify.app/)
+- 🧘‍♂️ [Calm Brioche](https://calm-brioche-2cf932.netlify.app/)
+- 📝 [Queen Blog (Firebase Backend)](https://queen-blog.netlify.app/)
+
+---
+
+### 🌐 Deployed Projects (with Google Search Console & Analytics)
+These are production-ready websites with **SEO optimization** and **analytics** configured:
+
+- 🔮 [Destiny Matrix Chart](https://www.destinymatrixchart.pro/)
+- 🍽️ [A&W Official Menu](https://www.aandwmenu.com/)
+- 🏛️ [SAMS Odisha](https://www.sams-odisha.org/)
+
+---
+
+### 🛠️ Backend Projects in Node.js
+
+These repositories showcase my backend expertise using **Node.js**, **Express**, **MongoDB**, and **TypeScript**:
+
+- 📚 [LMS System (TypeScript)](https://github.com/taha775/LMS-SYSTEM-TS)
+- 🌿 [AgroConnect Admin Panel](https://github.com/taha775/Agroconnect-Dashboard)
+- 🌾 [AgroConnect Backend](https://github.com/taha775/AgroConnectBackend)
+
+---
+
+### 🖥️ Team Collaboration Projects
+
+- 🔧 [Slash Admin Panel](https://github.com/taha775/slash_admin)  
+  *(I contributed to the UI/UX design and frontend architecture)*
+
